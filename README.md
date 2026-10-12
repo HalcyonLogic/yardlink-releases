@@ -1,0 +1,54 @@
+# YardLink for Lymow
+
+A free Windows app for the **Lymow One Plus** robot mower.
+
+YardLink is unofficial, not made by Lymow. Lymow's R&D team reviewed it and
+approved sharing it with the community.
+
+It signs in with your own Lymow account and talks to your mower through
+Lymow's cloud, the same way the phone app does. It does not change the mower
+or its firmware.
+
+## Download
+
+**[Get the latest version](https://github.com/HalcyonLogic/yardlink-releases/releases/latest)**: download
+`YardLink-for-Lymow-Setup-<version>.exe` and run it.
+
+- Windows 10 or 11, 64-bit.
+- Installs for your Windows user only, with no administrator rights needed.
+- Uninstall from Windows Settings > Apps.
+
+## What it does
+
+- Status, battery, signal, live map and camera
+- Start, pause, dock, mow all zones or chosen zones
+- Mowing settings, global and per zone
+- Scheduled tasks, the same as the phone app's Task Setup
+- Two-night split mowing: one cut direction tonight, the cross direction
+  tomorrow, so big zones don't run for 12 hours straight
+- Alerts as Windows notifications
+
+A phone-shaped window that looks like the Lymow app, and a larger desktop
+layout. Both can be open at once.
+
+## Is it safe?
+
+- Each release lists its VirusTotal scan and SHA-256 checksum, so you can
+  check that your download is the file that was scanned.
+- The app isn't code-signed, so Windows may say "unknown publisher". Click
+  **More info**, then **Run anyway**. AVG or Avast may analyse it for a moment
+  the first time it runs.
+- Your sign-in is stored only on your PC, encrypted by Windows. The app talks
+  only to Lymow's cloud and the free Open-Meteo weather service.
+- At Lymow's request the source code isn't public. If you'd like to review it,
+  open an issue here and it can be shared with you privately.
+
+## Feedback
+
+Bug reports and ideas are welcome in
+[Issues](https://github.com/HalcyonLogic/yardlink-releases/issues).
+
+## License
+
+MIT, see [LICENSE](LICENSE). Lymow and Lymow One Plus are Lymow's. YardLink is
+not affiliated with or endorsed by Lymow.
