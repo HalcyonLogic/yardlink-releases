@@ -5,7 +5,8 @@ A free Windows app for the **Lymow One Plus** robot mower.
 YardLink is unofficial, not made by Lymow. Lymow's R&D team reviewed it and
 approved sharing it with the community.
 
-It signs in with your own Lymow account and talks to your mower through
+It signs in with your own Lymow account (email and password, Google or
+Apple) and talks to your mower through
 Lymow's cloud, the same way the phone app does. It does not change the mower
 or its firmware.
 
@@ -26,10 +27,13 @@ or its firmware.
 - Scheduled tasks, the same as the phone app's Task Setup
 - Two-night split mowing: one cut direction tonight, the cross direction
   tomorrow, so big zones don't run for 12 hours straight
+- Mower errors explained in the Lymow app's own words, with how to fix them
 - Alerts as Windows notifications
 
-A phone-shaped window that looks like the Lymow app, and a larger desktop
-layout. Both can be open at once.
+It opens in a phone-shaped window that looks and works like the Lymow app.
+
+You set up the mower itself in the Lymow phone app. YardLink then finds it on
+your account.
 
 ## Is it safe?
 
