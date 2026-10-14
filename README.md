@@ -21,7 +21,9 @@ or its firmware.
 
 ## What it does
 
-- Status, battery, signal, live map and camera
+- Status, battery, signal, live map and camera, with the map shown under the
+  camera view
+- Several mowers on one account: switch between them, as in the phone app
 - Start, pause, dock, mow all zones or chosen zones
 - Mowing settings, global and per zone
 - Scheduled tasks, the same as the phone app's Task Setup
