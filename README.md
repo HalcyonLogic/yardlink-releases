@@ -23,7 +23,10 @@ or its firmware.
 
 - Status, battery, signal, live map and camera, with the map shown under the
   camera view
-- Several mowers on one account: switch between them, as in the phone app
+- Several mowers on one account: switch between them, as in the phone app,
+  or see them all on one map with All Mowers
+- Mowing progress as the mower reports it: cut ground filled in, finished
+  zones solid
 - Start, pause, dock, mow all zones or chosen zones
 - Mowing settings, global and per zone
 - Scheduled tasks, the same as the phone app's Task Setup
