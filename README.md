@@ -34,6 +34,8 @@ or its firmware.
   tomorrow, so big zones don't run for 12 hours straight
 - Mower errors explained in the Lymow app's own words, with how to fix them
 - Alerts as Windows notifications
+- Tells you when a newer YardLink is published (checked once a day; can be
+  turned off)
 
 It opens in a phone-shaped window that looks and works like the Lymow app.
 
