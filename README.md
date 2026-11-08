@@ -61,5 +61,7 @@ Bug reports and ideas are welcome in
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Lymow and Lymow One Plus are Lymow's. YardLink is
+MIT, see [LICENSE](LICENSE). The license covers the app as distributed. The
+source code is private at Lymow's request; you can ask to review it by opening
+an issue. Lymow and Lymow One Plus are Lymow's. YardLink is
 not affiliated with or endorsed by Lymow.
