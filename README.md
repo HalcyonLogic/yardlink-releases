@@ -30,8 +30,6 @@ or its firmware.
 - Start, pause, dock, mow all zones or chosen zones
 - Mowing settings, global and per zone
 - Scheduled tasks, the same as the phone app's Task Setup
-- Two-night split mowing: one cut direction tonight, the cross direction
-  tomorrow, so big zones don't run for 12 hours straight
 - Mower errors explained in the Lymow app's own words, with how to fix them
 - Alerts as Windows notifications
 - Tells you when a newer YardLink is published (checked once a day; can be
