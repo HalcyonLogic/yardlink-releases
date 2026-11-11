@@ -36,6 +36,8 @@ or its firmware.
   turned off)
 
 It opens in a phone-shaped window that looks and works like the Lymow app.
+**Switch to desktop layout**, on the Home screen, gives a larger layout with
+the map beside the controls; switch back any time on the Me screen.
 
 You set up the mower itself in the Lymow phone app. YardLink then finds it on
 your account.
